@@ -177,7 +177,7 @@
                         <a href="logout.php"><i class="material-icons-two-tone">inbox</i>Logout</a>
                     </li>
                     <li>
-                        <a href="logout.php"><i class="material-icons-two-tone">link</i>Github</a>
+                        <a href="https://github.com/hzhoanglee/TinhDiemB1USTH"><i class="material-icons-two-tone">link</i>Github</a>
                     </li>
                 </ul>
             </div>
